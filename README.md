@@ -1,4 +1,4 @@
-#This project or challange is provided by frontend mentor.
+# This project or challange is provided by frontend mentor.
 Please do not copy and modify this codes. If you want to learn and analyze please go ahead.
 
 ## Coded by: Amit Dhakal
